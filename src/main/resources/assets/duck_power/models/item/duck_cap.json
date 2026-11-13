@@ -1,0 +1,7 @@
+{
+  "parent": "duck_power:item/duck_cap_base",
+  "textures": { "0": "duck_power:item/pato_normal", "particle": "duck_power:item/pato_normal" },
+  "overrides": [
+    { "predicate": { "duck_power:awakened": 1 }, "model": "duck_power:item/duck_cap_awakening" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "duck_power",
+  "version": "${version}",
+  "name": "Duck Power",
+  "description": "O boné de pato que desperta uma fúria poderosa.",
+  "authors": ["Você"],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/duck_power/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.duckpower.DuckPower"],
+    "client": ["com.duckpower.DuckPowerClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

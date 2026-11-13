@@ -1,0 +1,4 @@
+{
+  "parent": "duck_power:item/duck_cap_base",
+  "textures": { "0": "duck_power:item/pato_awakening", "particle": "duck_power:item/pato_awakening" }
+}

@@ -1,0 +1,10 @@
+{
+  "itemGroup.duck_power": "Duck Power",
+  "item.duck_power.duck_cap": "Duck Cap",
+  "message.duck_power.awakened": "AWAKENING! Fury for 2 minutes!",
+  "message.duck_power.calmed": "The fury has passed...",
+  "tooltip.duck_power.duck_cap.idle": "Right click: awaken the fury (2 min)",
+  "tooltip.duck_power.duck_cap.active": "Furious!",
+  "key.duck_power.open_menu": "Open Duck Power menu",
+  "category.duck_power.controls": "Duck Power"
+}

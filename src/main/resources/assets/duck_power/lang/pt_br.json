@@ -1,0 +1,10 @@
+{
+  "itemGroup.duck_power": "Duck Power",
+  "item.duck_power.duck_cap": "Boné de Pato",
+  "message.duck_power.awakened": "O Pato despertou! FÚRIA ATIVADA!",
+  "message.duck_power.calmed": "A fúria passou. O pato voltou ao normal.",
+  "tooltip.duck_power.duck_cap.idle": "Botão direito: despertar a fúria (2 min)",
+  "tooltip.duck_power.duck_cap.active": "Em fúria!",
+  "key.duck_power.open_menu": "Abrir menu Duck Power",
+  "category.duck_power.controls": "Duck Power"
+}
